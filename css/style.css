@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.firstpage{
+
+ background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+ background-position: center;
+ background-size: cover;
+ padding-top: 12.5rem;
+ padding-bottom: 12.5rem;
+}
+
+
+.left{
+    float: left;
+    text-align: center;
+    margin-left: 10rem;
+    font-size: 20px;
+    margin-top: -11.5rem;
+}
+
+.left a{
+    color: #FDFDFD;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.right a{
+    color: #FDFDFD;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+
+.right{
+
+    float: right;
+    margin-right: 10rem;
+    margin-top: -11rem;
+    font-size: 10px;
+    align-items: center;
+}
+
+.home{
+
+    float: left;
+    margin-left: 20px;
+}
+
+.about{
+
+    float: right;
+    margin-left: 20px;
+}
+
+.samplepost{
+
+    float: right;
+    margin-left: 20px;
+}
+
+.contact{
+
+    float: right;
+    margin-left: 20px;
+}
+
+.subhead{
+   text-align: center;
+}
+
+.subhead h1{
+    font-size: 5rem;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: #FDFDFD;
+}
+
+.subhead span{
+    color:#FDFDFD;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.infos{
+
+    width: 35%;
+    align-items: center;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.firstinfo h2{
+    color: #212529;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 800;
+    margin-bottom: 5px;
+    margin-right: 63px;
+ 
+}
+
+.firstinfo h3{
+
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: #212529;
+    margin-bottom: 5px;
+}
+
+.infos p{
+    color: #6c757d;
+    margin-right: 95px;
+    margin-bottom: 20px;
+}
+
+.infos a{
+    color: #212529;
+}
+
+.infos h2{
+
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 800;
+}
+
+.infos h3{
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.infos hr{
+
+    color: #dee2e6;
+    width: 33rem;
+}
+
+.secondinfo h2{
+    margin-right: 80px;
+}
+
+.thirdinfo h2{
+    margin-right: 70px;
+}
+
+.thirdinfo p{
+    margin-right: 110px;
+    margin-top: 5px;
+}
+
+.infosp{
+    margin-top: 5px;
+}
+
+.forthinfo p{
+    margin-top: 5px;
+    margin-right: 150px;
+}
+
+.forthinfo h2{
+    margin-right: 145px;
+}
+
+.moreinfo{
+    align-items: center;
+   margin-bottom: 80px;
+    
+}
+
+.olderposts{
+    color: #FFFFFF;
+    padding: 0.8rem;
+    background-color: #0085A1;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 800;
+    margin-left: 47.9rem;
+
+}
+
+.head a:hover{
+    color: #f6eeee;
+}
+
+.infos h2:hover{
+    color: #0085A1;
+}
+
+.infos h3:hover{
+    color: #0085A1;
+}
+
+.infos a:hover{
+    color: #0085A1;
+}
+
+.moreinfo a:hover{
+
+    background-color: #02768e;
+}
