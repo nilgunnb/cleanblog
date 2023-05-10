@@ -16,14 +16,17 @@ a{
  background-attachment: fixed;
  padding-top: 12.5rem;
  padding-bottom: 15.2rem;
+ position: relative;
+ z-index: 1;
 }
 .firstpage::before{
     content: "";
     position: absolute;
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
+    width: 100%;
+    z-index: -1;
+    height: 100%;
     background-color: #212529;
     opacity: 0.5;
 }
