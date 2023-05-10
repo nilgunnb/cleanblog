@@ -160,12 +160,14 @@ a{
     width: 10%;
     padding: 15px;
     float: right;
-    margin-right: 18.3rem;
+    margin-right: 32%;
 }
 
 .olderposts a{
     color: #FFFFFF;
     font-weight: 600;
+    text-align: center;
+    margin-left: 18%;
 }
 
 .head a:hover{
