@@ -146,19 +146,23 @@ a{
 }
 
 .moreinfo{
-   align-items: center;
    margin-bottom: 80px;
+   overflow: auto;
     
 }
 
 .olderposts{
-    color: #FFFFFF;
-    padding: 0.8rem;
     background-color: #0085A1;
     font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-weight: 800;
-    margin-left: 47.9rem;
+    width: 10%;
+    padding: 15px;
+    float: right;
+    margin-right: 18.3rem;
+}
 
+.olderposts a{
+    color: #FFFFFF;
+    font-weight: 600;
 }
 
 .head a:hover{
